@@ -1,4 +1,4 @@
-[![MasterHead](https://assets-global.website-files.com/62e95dddfb380a0e61193e7d/62f25d97d64065ded4e38d0e_629e74fa7a006e7e5a016f5e_phython-data-science.jpeg)
+![MasterHead](https://assets-global.website-files.com/62e95dddfb380a0e61193e7d/62f25d97d64065ded4e38d0e_629e74fa7a006e7e5a016f5e_phython-data-science.jpeg)
 <h1 align="center">Hi , I'm Eren Taymaz</h1>
 <h3 align="center">Data Scientist | Computer Engineer</h3>
 
@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/erentaymaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erentaymaz" height="30" width="40" /></a>
 <a href="https://kaggle.com/erentaymaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="erentaymaz" height="30" width="40" /></a>
-<a href="[https://twitter.com/erentaymazz](https://public.tableau.com/app/profile/eren.taymaz/vizzes)" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="erentaymazz" height="30" width="40" /></a>
+<a href="https://public.tableau.com/app/profile/eren.taymaz/vizzes" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="erentaymazz" height="30" width="40" /></a>
 <a href="https://twitter.com/erentaymazz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="erentaymazz" height="30" width="40" /></a>
 
 </p>
