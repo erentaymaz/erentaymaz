@@ -6,9 +6,9 @@
 
 - ⚡️ I’m currently working on **Data Science**
 
-- ✨ I’m currently learning **Machine Learning, Deep Learning, Big Data**
+- 💻 I’m currently learning **Machine Learning, Deep Learning, Big Data**
 
-- 💫 I'm always open to learning new technologies and programming languages.
+- ✨ I'm always open to learning new technologies and programming languages.
 
 - 👨🏻‍💻 All of my projects are available at [www.erentaymaz.com](www.erentaymaz.com)
 
@@ -16,8 +16,9 @@
 
 - 📫 How to reach me **erentaymaz01@gmail.com**
   
-<hr style="border: 0.1px solid #ccc;">
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erentaymaz) [![Kaggle](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://kaggle.com/erentaymaz)
 <h3 align="left"> 🌐 Socials:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/erentaymaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erentaymaz" height="30" width="40" /></a>
