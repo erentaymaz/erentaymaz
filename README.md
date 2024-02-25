@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **erentaymaz01@gmail.com**
   
-<hr style="border: 1px solid #ccc;">
+<hr style="border: 0.5px solid #ccc;">
 
 <h3 align="left"> 🌐 Socials:</h3>
 <p align="left">
