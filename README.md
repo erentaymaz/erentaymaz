@@ -14,7 +14,9 @@
 
 - 💬 Ask me about **Unity,Html, Css, SQL, Python, Tableau**
 
-- 📫 How to reach me **erentaymaz01@gmail.com** <hr>
+- 📫 How to reach me **erentaymaz01@gmail.com**
+  
+<hr style="border: 1px solid #ccc;">
 
 <h3 align="left"> 🌐 Socials:</h3>
 <p align="left">
