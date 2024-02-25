@@ -2,19 +2,21 @@
 <h1 align="center">Hi , I'm Eren Taymaz</h1>
 <h3 align="center">Data Scientist | Computer Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=erentaymaz&label=Profile%20views&color=0e75b6&style=flat" alt="erentaymaz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=erentaymaz&label=Profile%20views&color=0e21b6&style=flat" alt="erentaymaz" /> </p>
 
-- 🔭 I’m currently working on **Data Science**
+- ⚡️💥 I’m currently working on **Data Science**
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, Big Data**
+- ✨ I’m currently learning **Machine Learning, Deep Learning, Big Data**
 
-- 👨‍💻 All of my projects are available at [www.erentaymaz.com](www.erentaymaz.com)
+- 💫 I'm always open to learning new technologies and programming languages.
+
+- 👨🏻‍💻 All of my projects are available at [www.erentaymaz.com](www.erentaymaz.com)
 
 - 💬 Ask me about **Unity,Html, Css, SQL, Python, Tableau**
 
-- 📫 How to reach me **erentaymaz01@gmail.com**
+- 📫 How to reach me **erentaymaz01@gmail.com** <hr>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> 🌐 Socials:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/erentaymaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erentaymaz" height="30" width="40" /></a>
 <a href="https://kaggle.com/erentaymaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="erentaymaz" height="30" width="40" /></a>
