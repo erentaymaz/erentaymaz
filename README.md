@@ -18,7 +18,7 @@
   
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erentaymaz) [![Kaggle](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://kaggle.com/erentaymaz)
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/erentaymaz) [![Kaggle](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://kaggle.com/erentaymaz)
 <h3 align="left"> 🌐 Socials:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/erentaymaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erentaymaz" height="30" width="40" /></a>
