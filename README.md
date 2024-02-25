@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erentaymaz&label=Profile%20views&color=0e21b6&style=flat" alt="erentaymaz" /> </p>
 
-- ⚡️💥 I’m currently working on **Data Science**
+- ⚡️ I’m currently working on **Data Science**
 
 - ✨ I’m currently learning **Machine Learning, Deep Learning, Big Data**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **erentaymaz01@gmail.com**
   
-<hr style="border: 0.5px solid #ccc;">
+<hr style="border: 0.1px solid #ccc;">
 
 <h3 align="left"> 🌐 Socials:</h3>
 <p align="left">
