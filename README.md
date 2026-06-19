@@ -11,7 +11,7 @@
 
 - 🚀 I am passionate about improving my skills in modern web technologies and software development practices.
 
-- 👨🏻‍💻 You can view all my projects here: **[www.erentaymaz.com](www.erentaymaz.com)**
+- 👨🏻‍💻 You can view all my projects here: **[www.erentaymaz.com](https://www.erentaymaz.com)**
 
 - 💬 Feel free to ask me about: **Laravel, PHP, React,JavaScript, TypeScript, Next.js, HTML, CSS, SQL, Python**
 
