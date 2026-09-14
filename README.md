@@ -155,11 +155,5 @@
 
 ##
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erentaymaz&show_icons=true&theme=radical&locale=en&layout=compact" alt="erentaymaz" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erentaymaz&show_icons=true&theme=radical&locale=en" alt="erentaymaz" /></p>
-<p align="center">
-  <img src="./assets/activity-overview.svg" alt="GitHub Activity Overview" />
-</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erentaymaz&theme=dark" alt="erentaymaz" /></p>
